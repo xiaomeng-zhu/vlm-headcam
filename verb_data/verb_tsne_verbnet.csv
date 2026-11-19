@@ -1,0 +1,213 @@
+word,x,y,embedding_row,lemma,verbnet_classes,n_classes,plot_class
+want,6.558718,-12.684833,0,want,appoint-29.1;order-60;want-32.1;want-32.1-1-1,4,Multiple classes
+go,-14.17345,-6.106131,1,go,escape-51.1-2;meander-47.7,2,Multiple classes
+let,-14.907911,-3.6939332,2,let,,0,Unmapped
+said,-0.26558673,9.5892315,3,say,indicate-78-1;say-37.7-1,2,Multiple classes
+read,-5.876568,0.5971673,4,read,discover-84-1-1;learn-14-1;learn-14-2-1;register-54.1;transfer_mesg-37.1.1;transfer_mesg-37.1.1-1,6,Multiple classes
+brush,-11.547647,-9.3930235,5,brush,braid-41.2.2;bump-18.4-1;floss-41.2.1;spray-9.7-1;wipe_instr-10.4.2-1,5,Multiple classes
+wash,-12.896777,-4.880696,6,wash,dress-41.1.1;floss-41.2.1;preparing-26.3-2;spray-9.7-1;wipe_manner-10.4.1-1,5,Multiple classes
+walk,-10.675614,-6.458617,7,walk,run-51.3.2,1,run-51.3.2
+drink,6.4259753,-4.415425,8,drink,eat-39.1-2,1,eat-39.1-2
+sleep,-1.7868807,-8.033903,9,sleep,fit-54.3;snooze-40.4,2,Multiple classes
+sing,-6.4942455,-2.0648797,10,sing,manner_speaking-37.3;performance-26.7-1-1;sound_emission-43.2,3,Multiple classes
+gave,1.5267668,8.3252535,11,give,give-13.1-1,1,give-13.1-1
+reading,-6.085301,0.8892363,12,read,discover-84-1-1;learn-14-1;learn-14-2-1;register-54.1;transfer_mesg-37.1.1;transfer_mesg-37.1.1-1,6,Multiple classes
+ride,14.162108,-3.3603976,13,ride,nonvehicle-51.4.2,1,nonvehicle-51.4.2
+shut,9.24199,-7.5981913,14,shut,other_cos-45.4,1,other_cos-45.4
+build,0.2387966,-13.857846,15,build,build-26.1-1,1,build-26.1-1
+fit,-4.3638077,-14.487787,16,fit,fit-54.3;funnel-9.3-2,2,Multiple classes
+seen,4.7634683,11.504491,17,see,characterize-29.2-1;consider-29.9-1-1;see-30.1-1,3,Multiple classes
+recording,-7.4459257,-10.516509,18,record,transcribe-25.4,1,transcribe-25.4
+climb,1.4889228,-10.371539,19,climb,calibratable_cos-45.6-1;escape-51.1-1;meander-47.7;run-51.3.2,4,Multiple classes
+cook,8.971873,-11.08898,20,cook,build-26.1;cooking-45.3;preparing-26.3-1,3,Multiple classes
+mix,12.448045,1.4431643,21,mix,correspond-36.1;mix-22.1-1-1;preparing-26.3-1,3,Multiple classes
+hang,-1.1007073,-1.4099654,22,hang,assuming_position-50;crane-40.3.2;poison-42.2;put_spatial-9.2-1;spatial_configuration-47.6;spray-9.7-1,6,Multiple classes
+asked,-0.723971,10.277178,23,ask,inquire-37.1.2;order-60-1;urge-58,3,Multiple classes
+draw,-10.994742,6.071557,24,draw,force-59;force-59-1;performance-26.7-2-1;remove-10.1;scribble-25.2;split-23.2,6,Multiple classes
+dump,13.260182,3.460867,25,dump,funnel-9.3-2-1,1,funnel-9.3-2-1
+hurts,-5.0238934,-7.7322125,26,hurt,amuse-31.1;hurt-40.8.3-2;marvel-31.3-4;pain-40.8.1,4,Multiple classes
+live,15.938764,-2.7009056,27,live,exist-47.1-1;gorge-39.6;lodge-46,3,Multiple classes
+pretend,10.7621155,-2.4363194,28,pretend,,0,Unmapped
+finished,-7.236825,-1.5413585,29,finish,stop-55.4-1,1,stop-55.4-1
+dancing,0.90386766,-0.25632143,30,dance,modes_of_being_with_motion-47.3;performance-26.7-1-1;waltz-51.5,3,Multiple classes
+helping,-11.22961,8.2485285,31,help,help-72-1,1,help-72-1
+swim,-9.051865,-5.40043,32,swim,run-51.3.2;swarm-47.5.1-1;tingle-40.8.2,3,Multiple classes
+scoop,11.540046,3.0186882,33,scoop,funnel-9.3,1,funnel-9.3
+missing,-3.9976816,-11.993749,34,miss,admire-31.2,1,admire-31.2
+looked,0.37938893,9.809299,35,look,peer-30.3;rummage-35.5;stimulus_subject-30.4,3,Multiple classes
+cooking,8.00846,-10.411439,36,cook,build-26.1;cooking-45.3;preparing-26.3-1,3,Multiple classes
+write,-10.235345,5.096842,37,write,lecture-37.11-1;performance-26.7-2-1;scribble-25.2;transfer_mesg-37.1.1-1-1,4,Multiple classes
+add,13.588953,1.2178506,38,add,mix-22.1-2,1,mix-22.1-2
+washing,-12.829283,-4.3491096,39,wash,dress-41.1.1;floss-41.2.1;preparing-26.3-2;spray-9.7-1;wipe_manner-10.4.1-1,5,Multiple classes
+toot,-4.001262,8.917498,40,toot,sound_emission-43.2,1,sound_emission-43.2
+pour,10.541132,0.14421397,41,pour,pour-9.5;preparing-26.3-2;substance_emission-43.4;weather-57,4,Multiple classes
+carry,8.373771,6.2006907,42,carry,carry-11.4;cost-54.2;fit-54.3,3,Multiple classes
+ran,2.8073509,-1.9540285,43,run,meander-47.7;preparing-26.3-1;run-51.3.2;swarm-47.5.1-1,4,Multiple classes
+save,-15.15344,1.5602221,44,save,bill-54.5;get-13.5.1-1,2,Multiple classes
+building,0.21236499,-13.76317,45,build,build-26.1-1,1,build-26.1-1
+seems,8.01661,-8.030955,46,seem,,0,Unmapped
+dig,-0.9537341,3.0308368,47,dig,create-26.4-1;hunt-35.1;poke-19,3,Multiple classes
+fill,12.44382,0.03738208,48,fill,contiguous_location-47.8;fill-9.8;other_cos-45.4,3,Multiple classes
+threw,-3.2502992,-5.689139,49,throw,amuse-31.1;throw-17.1-1-1,2,Multiple classes
+spit,5.4505544,-5.412693,50,spit,breathe-40.1.2;pocket-9.10;weather-57,3,Multiple classes
+hiding,-0.9887162,5.3064165,51,hide,concealment-16-1,1,concealment-16-1
+sent,-4.852353,3.2261188,52,send,confine-92-1;send-11.1-1,2,Multiple classes
+starts,2.6878824,12.960191,53,start,begin-55.1-1,1,begin-55.1-1
+climbing,1.7951626,-10.386698,54,climb,calibratable_cos-45.6-1;escape-51.1-1;meander-47.7;run-51.3.2,4,Multiple classes
+cutting,10.653752,-5.999906,55,cut,amuse-31.1;braid-41.2.2;build-26.1-1;cut-21.1-1;hurt-40.8.3-2;meander-47.7;split-23.2,7,Multiple classes
+flying,6.4981847,8.49099,56,fly,drive-11.5-1;nonvehicle-51.4.2;run-51.3.2;spatial_configuration-47.6,4,Multiple classes
+wave,6.4868083,6.6910667,57,wave,braid-41.2.2;modes_of_being_with_motion-47.3;wink-40.3.1-1,3,Multiple classes
+pear,-9.538012,-3.2787156,58,pear,,0,Unmapped
+born,2.721742,12.1064205,59,bear,admire-31.2,1,admire-31.2
+peel,7.6716833,-2.1094358,60,peel,pit-10.7,1,pit-10.7
+poke,8.9853115,-5.2132435,61,poke,poke-19;rummage-35.5,2,Multiple classes
+snuggle,-4.4786186,-2.6509886,62,snuggle,,0,Unmapped
+brushing,-11.539287,-9.118029,63,brush,braid-41.2.2;bump-18.4-1;floss-41.2.1;spray-9.7-1;wipe_instr-10.4.2-1,5,Multiple classes
+stack,-2.195128,-12.40534,64,stack,spray-9.7-2,1,spray-9.7-2
+fold,-3.4853199,-9.784102,65,fold,bend-45.2;build-26.1;crane-40.3.2;knead-26.5,4,Multiple classes
+skip,9.18134,-2.2929358,66,skip,run-51.3.2,1,run-51.3.2
+growing,0.80407536,-6.996106,67,grow,appear-48.1.1;build-26.1;calibratable_cos-45.6-1;entity_specific_modes_being-47.2;grow-26.2;other_cos-45.4,6,Multiple classes
+woke,0.31130472,-7.4532723,68,wake,other_cos-45.4,1,other_cos-45.4
+coloring,-11.852052,4.672273,69,color,coloring-24,1,coloring-24
+stir,8.451837,-0.23797566,70,stir,amuse-31.1;modes_of_being_with_motion-47.3;shake-22.3-1-1,3,Multiple classes
+match,-4.1130247,-10.985954,71,match,amalgamate-22.2-1,1,amalgamate-22.2-1
+chewing,1.9651151,-6.242712,72,chew,chew-39.2-1,1,chew-39.2-1
+cuddle,-4.9219313,-0.6303725,73,cuddle,marry-36.2,1,marry-36.2
+heat,7.091413,-11.898896,74,heat,cooking-45.3;other_cos-45.4,2,Multiple classes
+spinning,0.7940696,-1.7901288,75,spin,build-26.1;coil-9.6;performance-26.7-2-1;roll-51.3.1;tingle-40.8.2,5,Multiple classes
+lick,-2.8578215,12.414328,76,lick,chew-39.2-1;touch-20-1;wipe_manner-10.4.1-1,3,Multiple classes
+rip,-6.1734486,4.320419,77,rip,break-45.1;split-23.2,2,Multiple classes
+cried,-1.5733086,9.203821,78,cry,breathe-40.1.2-1;manner_speaking-37.3;marvel-31.3-3;nonverbal_expression-40.2;sound_emission-43.2,5,Multiple classes
+clapping,1.1958131,1.919552,79,clap,sound_emission-43.2;wink-40.3.1-1,2,Multiple classes
+letting,-8.326905,-8.455763,80,let,,0,Unmapped
+drawing,-10.798681,6.5770063,81,draw,force-59;force-59-1;performance-26.7-2-1;remove-10.1;scribble-25.2;split-23.2,6,Multiple classes
+blowing,-3.4965587,6.4950557,82,blow,build-26.1;crane-40.3.2;entity_specific_modes_being-47.2;split-23.2;weather-57,5,Multiple classes
+fits,-4.3714204,-14.519294,83,fit,fit-54.3;funnel-9.3-2,2,Multiple classes
+scoot,14.070281,-5.153344,84,scoot,run-51.3.2,1,run-51.3.2
+learned,0.051014967,-5.0498033,85,learn,discover-84-1-1;learn-14-1;learn-14-2-1,3,Multiple classes
+tuck,-9.20932,-3.477226,86,tuck,funnel-9.3-2,1,funnel-9.3-2
+grown,5.7999673,-1.1050428,87,grow,appear-48.1.1;build-26.1;calibratable_cos-45.6-1;entity_specific_modes_being-47.2;grow-26.2;other_cos-45.4,6,Multiple classes
+waving,6.2295895,7.2209516,88,wave,braid-41.2.2;modes_of_being_with_motion-47.3;wink-40.3.1-1,3,Multiple classes
+marching,4.420169,-8.685808,89,march,run-51.3.2,1,run-51.3.2
+moved,2.6542141,4.7278156,90,move,amuse-31.1;roll-51.3.1;slide-11.2,3,Multiple classes
+filled,-9.068985,8.114289,91,fill,contiguous_location-47.8;fill-9.8;other_cos-45.4,3,Multiple classes
+flew,-2.0128033,9.330049,92,fly,drive-11.5-1;nonvehicle-51.4.2;run-51.3.2;spatial_configuration-47.6,4,Multiple classes
+cooked,7.7781906,-9.86941,93,cook,build-26.1;cooking-45.3;preparing-26.3-1,3,Multiple classes
+dried,-6.385448,-7.9073253,94,dry,other_cos-45.4,1,other_cos-45.4
+charge,2.9589021,-0.17408802,95,charge,bill-54.5;confine-92;equip-13.4.2;run-51.3.2,4,Multiple classes
+barking,10.963381,-7.5323553,96,bark,animal_sounds-38;hurt-40.8.3-2;manner_speaking-37.3;pit-10.7,4,Multiple classes
+imagine,4.4303966,7.4377155,97,imagine,characterize-29.2-1-1;consider-29.9-1;consider-29.9-1-1-1;wish-62,4,Multiple classes
+bend,-2.6034348,2.9358525,98,bend,assuming_position-50;bend-45.2;knead-26.5;spatial_configuration-47.6,4,Multiple classes
+gives,3.7167878,5.3041663,99,give,give-13.1-1,1,give-13.1-1
+buckle,4.869679,-2.2747962,100,buckle,tape-22.4,1,tape-22.4
+sweep,-8.667817,1.3374751,101,sweep,entity_specific_modes_being-47.2;funnel-9.3-2-1;meander-47.7;run-51.3.2;wipe_manner-10.4.1-1,5,Multiple classes
+pretending,10.551546,-2.320768,102,pretend,,0,Unmapped
+staying,-4.460689,11.173981,103,stay,exist-47.1-1;lodge-46,2,Multiple classes
+appreciate,5.116367,4.7797256,104,appreciate,admire-31.2;calibratable_cos-45.6-1,2,Multiple classes
+died,10.242406,3.699115,105,die,disappearance-48.2,1,disappearance-48.2
+locked,-8.98333,3.6388905,106,lock,tape-22.4,1,tape-22.4
+pinch,9.58343,7.976072,107,pinch,steal-10.5;touch-20-1,2,Multiple classes
+mixing,12.204633,1.1981994,108,mix,correspond-36.1;mix-22.1-1-1;preparing-26.3-1,3,Multiple classes
+bake,6.45563,-10.436502,109,bake,build-26.1;cooking-45.3;preparing-26.3-1,3,Multiple classes
+built,0.9931719,-14.65165,110,build,build-26.1-1,1,build-26.1-1
+showed,-4.010501,5.197073,111,show,conjecture-29.5-2;crane-40.3.2;indicate-78-1-1;reflexive_appearance-48.1.2;transfer_mesg-37.1.1-1-1,5,Multiple classes
+shout,0.84398496,1.3790369,112,shout,manner_speaking-37.3,1,manner_speaking-37.3
+feeding,5.367908,9.945845,113,feed,feeding-39.7;fit-54.3;gorge-39.6,3,Multiple classes
+spilled,-6.9738193,6.7606654,114,spill,appear-48.1.1;pour-9.5;substance_emission-43.4,3,Multiple classes
+freeze,7.109102,-2.2533877,115,freeze,knead-26.5;other_cos-45.4;weather-57,3,Multiple classes
+measure,4.512219,-12.051727,116,measure,register-54.1,1,register-54.1
+licking,-3.9014754,12.105583,117,lick,chew-39.2-1;touch-20-1;wipe_manner-10.4.1-1,3,Multiple classes
+smiling,1.6045985,2.9846902,118,smile,nonverbal_expression-40.2,1,nonverbal_expression-40.2
+wondering,2.7296634,-6.6369915,119,wonder,care-88-1;marvel-31.3-1;marvel-31.3-8,3,Multiple classes
+closing,-9.601057,-0.35868493,120,close,crane-40.3.2;other_cos-45.4,2,Multiple classes
+writing,-10.539193,4.697211,121,write,lecture-37.11-1;performance-26.7-2-1;scribble-25.2;transfer_mesg-37.1.1-1-1,4,Multiple classes
+rise,-3.2356222,1.5045278,122,rise,appear-48.1.1;assuming_position-50;calibratable_cos-45.6-1;escape-51.1-2;spatial_configuration-47.6,5,Multiple classes
+digging,-0.8608272,3.147492,123,dig,create-26.4-1;hunt-35.1;poke-19,3,Multiple classes
+runs,-0.35248402,5.297757,124,run,meander-47.7;preparing-26.3-1;run-51.3.2;swarm-47.5.1-1,4,Multiple classes
+explore,-4.7889285,-5.619696,125,explore,investigate-35.4,1,investigate-35.4
+decorate,-6.8185496,9.149968,126,decorate,fill-9.8;illustrate-25.3,2,Multiple classes
+touched,7.804441,2.6489236,127,touch,amuse-31.1;contiguous_location-47.8-1;touch-20-1,3,Multiple classes
+squash,-2.3170419,-3.0034678,128,squash,carve-21.2-1;funnel-9.3-2;knead-26.5,3,Multiple classes
+grew,3.1911664,9.167584,129,grow,appear-48.1.1;build-26.1;calibratable_cos-45.6-1;entity_specific_modes_being-47.2;grow-26.2;other_cos-45.4,6,Multiple classes
+destroy,-6.982962,-8.113692,130,destroy,destroy-44,1,destroy-44
+seek,-6.098319,9.191333,131,seek,ferret-35.6,1,ferret-35.6
+held,-6.7467175,-1.2824074,132,hold,conjecture-29.5-1;fit-54.3;hold-15.1-1,3,Multiple classes
+ripped,-6.2075543,4.563944,133,rip,break-45.1;split-23.2,2,Multiple classes
+blew,5.0535855,10.65191,134,blow,build-26.1;crane-40.3.2;entity_specific_modes_being-47.2;split-23.2;weather-57,5,Multiple classes
+colored,-12.181348,5.4979124,135,color,coloring-24,1,coloring-24
+burn,-14.627982,1.9061241,136,burn,entity_specific_cos-45.5;entity_specific_modes_being-47.2;hurt-40.8.3-2;light_emission-43.1;other_cos-45.4;tingle-40.8.2,6,Multiple classes
+crawling,3.8894386,-4.498813,137,crawl,meander-47.7;run-51.3.2;swarm-47.5.1-1,3,Multiple classes
+began,-3.2716782,0.39349887,138,begin,begin-55.1-1,1,begin-55.1-1
+carrying,7.668894,5.740204,139,carry,carry-11.4;cost-54.2;fit-54.3,3,Multiple classes
+drew,-12.349335,3.4959702,140,draw,force-59;force-59-1;performance-26.7-2-1;remove-10.1;scribble-25.2;split-23.2,6,Multiple classes
+trust,-1.9631819,-4.119405,141,trust,admire-31.2;fulfilling-13.4.1,2,Multiple classes
+calls,4.2143703,4.5143323,142,call,animal_sounds-38;dub-29.3;get-13.5.1;manner_speaking-37.3,4,Multiple classes
+bouncing,-1.1994168,0.42608526,143,bounce,force-59-1;roll-51.3.1;run-51.3.2;slide-11.2-1-1,4,Multiple classes
+stuffed,-2.7754273,-6.431338,144,stuff,,0,Unmapped
+plug,-12.039052,2.0420654,145,plug,fill-9.8,1,fill-9.8
+enjoying,5.267345,-6.508589,146,enjoy,admire-31.2-1;want-32.1-1,2,Multiple classes
+married,0.4692985,5.277894,147,marry,amalgamate-22.2-3-1-1;marry-36.2,2,Multiple classes
+became,3.4997933,8.706569,148,become,,0,Unmapped
+yell,-6.939187,6.0746946,149,yell,animal_sounds-38;manner_speaking-37.3,2,Multiple classes
+chasing,2.0018375,-0.93385,150,chase,chase-51.6,1,chase-51.6
+dare,9.752301,8.629084,151,dare,force-59,1,force-59
+wanting,-10.298608,-0.765289,152,want,appoint-29.1;order-60;want-32.1;want-32.1-1-1,4,Multiple classes
+belong,-3.124538,-0.30702516,153,belong,,0,Unmapped
+rocking,4.506933,-9.386905,154,rock,body_internal_motion-49;modes_of_being_with_motion-47.3,2,Multiple classes
+print,4.531445,0.53149784,155,print,scribble-25.2,1,scribble-25.2
+walks,2.396245,6.3498845,156,walk,run-51.3.2,1,run-51.3.2
+scare,-7.568113,10.661562,157,scare,amuse-31.1,1,amuse-31.1
+passed,-0.7230151,0.17762782,158,pass,consume-66;give-13.1;occurrence-48.3;send-11.1-1;throw-17.1-1,5,Multiple classes
+scooping,11.932685,3.2080421,159,scoop,funnel-9.3,1,funnel-9.3
+ends,-11.24971,-7.9931965,160,end,stop-55.4-1,1,stop-55.4-1
+skipped,-2.2372155,4.582737,161,skip,run-51.3.2,1,run-51.3.2
+travel,3.3747804,-2.4826746,162,travel,run-51.3.2,1,run-51.3.2
+spent,0.03521584,-2.8033965,163,spend,consume-66-1;pay-68,2,Multiple classes
+yelled,-0.63234514,8.430181,164,yell,animal_sounds-38;manner_speaking-37.3,2,Multiple classes
+glow,-5.079566,4.9802184,165,glow,light_emission-43.1,1,light_emission-43.1
+opens,2.1780212,10.448759,166,open,appear-48.1.1;crane-40.3.2;other_cos-45.4;spatial_configuration-47.6,4,Multiple classes
+asks,-0.1108848,6.8139005,167,ask,inquire-37.1.2;order-60-1;urge-58,3,Multiple classes
+taught,-2.778762,-9.026411,168,teach,transfer_mesg-37.1.1-1-1,1,transfer_mesg-37.1.1-1-1
+support,0.32151282,-10.754291,169,support,admire-31.2;contiguous_location-47.8;help-72,3,Multiple classes
+speaking,-7.34291,-9.623462,170,speak,lecture-37.11-1;talk-37.5,2,Multiple classes
+spy,-0.7882355,-6.353285,171,spy,sight-30.2,1,sight-30.2
+lying,5.2601595,3.061961,172,lie,assuming_position-50;spatial_configuration-47.6,2,Multiple classes
+assume,11.260001,5.148039,173,assume,adopt-93,1,adopt-93
+wakes,2.9790275,1.2531391,174,wake,other_cos-45.4,1,other_cos-45.4
+flush,1.5676459,-3.959899,175,flush,hiccup-40.1.1;wipe_manner-10.4.1,2,Multiple classes
+split,-10.639527,-2.2596653,176,split,break-45.1;hurt-40.8.3-1-1;split-23.2;tingle-40.8.2,4,Multiple classes
+packing,11.422807,-7.9225287,177,pack,spray-9.7-1-1,1,spray-9.7-1-1
+tied,13.193726,-5.9459777,178,tie,tape-22.4,1,tape-22.4
+stood,-3.6809871,-1.7678514,179,stand,admire-31.2;assuming_position-50;put_spatial-9.2-1;spatial_configuration-47.6,4,Multiple classes
+escape,4.6367145,-3.4572732,180,escape,escape-51.1-1,1,escape-51.1-1
+measuring,8.422941,1.5262449,181,measure,register-54.1,1,register-54.1
+pouring,10.1017475,1.0584614,182,pour,pour-9.5;preparing-26.3-2;substance_emission-43.4;weather-57,4,Multiple classes
+paid,2.8344069,3.411788,183,pay,pay-68,1,pay-68
+blinking,-1.8566496,-2.4965432,184,blink,light_emission-43.1;wink-40.3.1-1,2,Multiple classes
+jumps,-5.697995,-5.735005,185,jump,calibratable_cos-45.6-1;run-51.3.2,2,Multiple classes
+matches,-4.7513795,-11.506234,186,match,amalgamate-22.2-1,1,amalgamate-22.2-1
+hidden,8.869294,-4.5390573,187,hide,concealment-16-1,1,concealment-16-1
+coughing,14.01885,4.1909432,188,cough,breathe-40.1.2-1;nonverbal_expression-40.2,2,Multiple classes
+duckling,-7.6955857,-4.3721576,189,duckling,,0,Unmapped
+kissing,6.847939,-0.009268465,190,kiss,marry-36.2;touch-20-1,2,Multiple classes
+relaxing,-3.4178846,1.9265478,191,relax,amuse-31.1,1,amuse-31.1
+vacuuming,-8.8068695,1.2249457,192,vacuum,wipe_instr-10.4.2-1,1,wipe_instr-10.4.2-1
+hugging,-5.038826,-3.5478206,193,hug,contiguous_location-47.8;marry-36.2,2,Multiple classes
+dos,-13.752108,-1.0947033,194,do,,0,Unmapped
+charging,-12.092648,1.1920474,195,charge,bill-54.5;confine-92;equip-13.4.2;run-51.3.2,4,Multiple classes
+wears,-6.5273027,2.7320647,196,wear,simple_dressing-41.3.1;wipe_manner-10.4.1-1,2,Multiple classes
+slap,7.5611167,3.9123647,197,slap,hit-18.1-1;throw-17.1-1,2,Multiple classes
+sneak,7.2085958,-8.262807,198,sneak,run-51.3.2;send-11.1-1;steal-10.5,3,Multiple classes
+cling,-3.7792532,7.178773,199,cling,cling-22.5;sound_emission-43.2,2,Multiple classes
+killed,14.450896,-0.70946294,200,kill,murder-42.1-1,1,murder-42.1-1
+staring,5.8506746,1.783682,201,star,captain-29.8-1-1,1,captain-29.8-1-1
+recycle,-13.361978,-3.0732853,202,recycle,,0,Unmapped
+whisk,7.7181554,0.41147152,203,whisk,shake-22.3-1-1;spank-18.3;wipe_manner-10.4.1,3,Multiple classes
+bothering,-0.15663527,12.030974,204,bother,amuse-31.1;marvel-31.3-2;pain-40.8.1,3,Multiple classes
+written,14.523924,-2.5517342,205,write,lecture-37.11-1;performance-26.7-2-1;scribble-25.2;transfer_mesg-37.1.1-1-1,4,Multiple classes
+sleeps,1.5907005,-3.9648623,206,sleep,fit-54.3;snooze-40.4,2,Multiple classes
+stacking,-2.1849098,-12.468119,207,stack,spray-9.7-2,1,spray-9.7-2
+stomping,3.2774467,0.68759346,208,stomp,run-51.3.2,1,run-51.3.2
+destroyed,-8.062874,-5.2919064,209,destroy,destroy-44,1,destroy-44
+tricked,-0.871349,-9.746059,210,trick,force-59-1,1,force-59-1
+gon,-4.094991,-3.3830638,211,gon,,0,Unmapped
