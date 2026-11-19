@@ -61,7 +61,7 @@ plt.show()
 
 points.to_csv("verb_data/verb_tsne.csv", index=False)
 np.savez_compressed(
-    "verb_embeddings.npz",
+    "verb_data/verb_embeddings.npz",
     words=np.asarray(words),
     W=W,
     W_normalized=W_unit,
